@@ -1,0 +1,8 @@
+{
+   "worldSize" : [1000,240],
+   "startkirby" : [50,50],
+   "background": "AirshipExterior.png",
+
+   "waddle":[150,200],
+   "waddle2":[]
+}

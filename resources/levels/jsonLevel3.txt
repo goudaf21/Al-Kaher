@@ -1,0 +1,7 @@
+{
+   "worldSize" : [300,300],
+   "startkirby" : [500,120],
+   "waddle":[500,220,500,0],
+   "background":"room.png",
+    "waddle2":[0,0,800,220,820,0,0,220]
+}

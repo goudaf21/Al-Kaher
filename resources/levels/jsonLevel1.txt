@@ -1,0 +1,8 @@
+{
+   "worldSize" : [1000,240],
+   "startkirby" : [50,50],
+   "background": "back yard.png",
+
+   "waddle":[],
+   "waddle2":[150,200]
+}
