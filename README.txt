@@ -1,4 +1,5 @@
-Instructions to run: Run the main function in main.py, then choose "start Game"
+Instructions to run:
+       Run the main function in main.py, then choose "start Game"
 
 Controls:
  Up arrow : Move Up
